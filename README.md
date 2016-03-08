@@ -1,6 +1,9 @@
-# This is sandbox page!
+# This is Hiyoko Lab.
 
-## XMLをパースするスクリプト
+## 更新情報
+ * 2016/3/8 新規作成
+  
+## XMLをパースするすくりぷと
 
  * [XMLをパースするスクリプトサンプル](https://github.com/tikemin/sandbox/blob/master/xmlparse.php)
  * [XMLのデータ](https://github.com/tikemin/sandbox/blob/master/xmldata.xml)
