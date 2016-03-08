@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
 /**
- * PHPでXMLの中身を主力するスクリプト
+ * PHPでXMLの中身をCSVっぽく出力するすくりぷと
  */
 
 $filename = $argv[1];//2つ目が標準入力
