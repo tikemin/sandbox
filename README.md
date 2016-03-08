@@ -5,6 +5,10 @@
  * [XMLをパースするスクリプトサンプル](https://github.com/tikemin/sandbox/blob/master/xmlparse.php)
  * [XMLのデータ](https://github.com/tikemin/sandbox/blob/master/xmldata.xml)
 
+## 実行環境
+ * php 5.4.30
+ * Mac OS X 10.9.5
+ * zsh
 
 ## 使い方
  以下に、本スクリプトの利用手順を示す。
