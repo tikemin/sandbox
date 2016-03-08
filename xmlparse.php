@@ -1,8 +1,8 @@
 #!/usr/bin/php
+<?php
 /**
  * PHPでXMLの中身を主力するスクリプト
  */
-<?php
 
 $filename = $argv[1];//2つ目が標準入力
 
