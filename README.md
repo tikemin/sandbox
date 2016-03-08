@@ -3,7 +3,7 @@
 ## 更新情報
  * 2016/3/8 新規作成
   
-## XMLをパースするすくりぷと
+## 【アイテム1】 XMLをパースするすくりぷと
 
  * [XMLをパースするスクリプトサンプル](https://github.com/tikemin/sandbox/blob/master/xmlparse.php)
  * [XMLのデータ](https://github.com/tikemin/sandbox/blob/master/xmldata.xml)
