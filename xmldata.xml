@@ -1,0 +1,17 @@
+<xml>
+  <dataset>
+        <data1 attr="attr1">value1</data1>
+        <data2 attr="attr2">value2</data2>
+        <data3 attr="attr3">value3</data3>
+        <data4>
+          <subdata1>v1</subdata1>
+          <subdata2>v2</subdata2>
+          <subdata3>
+            <subsubdata1>vv1</subsubdata1>
+            <subsubdata2>vv2</subsubdata2>
+          </subdata3>
+        </data4>
+  </dataset>
+</xml>
+
+
